@@ -104,7 +104,7 @@ Após as seguintes trocas acima, obtemos o vetor ordenado: **1, 6, 9, 12, 23, 43
 
 ### Aplicação
 <p align="center">
-  <img src="https://github.com/gjoioso/sistema-para-analise-de-performance-de-algoritmos-de-ordenacao-de-dados/blob/main/program.gif?raw=true" width="80%"/>
+  <img src="https://github.com/gjoioso/sistema-para-analise-de-performance-de-algoritmos-de-ordenacao-de-dados/blob/master/program.gif?raw=true" width="80%"/>
 </p>
 
 
